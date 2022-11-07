@@ -1,0 +1,17 @@
+
+.img-logo{
+    width: 80px;
+}
+
+.card-header{
+    font-size: large;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+footer{
+    background-color: rgb(4, 62, 72);
+    font-size: small;
+}
